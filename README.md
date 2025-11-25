@@ -12,11 +12,11 @@ This trial exercise must be completed with good practice, and minimal assistance
 
 ### Here are the instructions that you received via email:
 
-Step 1. If you have not already, create a github account: https://github.com/ and download the github desktop app.
-Step 3. Clone this repository to your local machine.
-Step 3. Familiarize yourself with the contents of the repo, including the “README.md” file that contains information about the data and directory structure and the coding instructions.
-Step 4. Create a new R project using the existing repository directory.
-Step 5. In a new R script within the project, write a code to import, re-format, visualize, and export the given data from the coding instructions provided. Ensure that all your code is well-commented.
-Step 5. Once you have completed the code exercise, commit and push your changes to GitHub, this will provide options to generate a "fork" of the repository, please ensure the repository is set to "Private" and then invite both Dr Davies (marecotec) and Dr Carrick (jvcarrick) to the repository (found in the settings page for that repo). We will then review the repository.
+1. If you have not already, create a github account: https://github.com/ and download the github desktop app.
+1. Clone this repository to your local machine.
+1. Familiarize yourself with the contents of the repo, including the “README.md” file that contains information about the data and directory structure and the coding instructions.
+1. Create a new R project using the existing repository directory.
+1. In a new R script within the project, write a code to import, re-format, visualize, and export the given data from the coding instructions provided. Ensure that all your code is well-commented.
+1. Once you have completed the code exercise, commit and push your changes to GitHub, this will provide options to generate a "fork" of the repository, please ensure the repository is set to "Private" and then invite both Dr Davies (marecotec) and Dr Carrick (jvcarrick) to the repository (found in the settings page for that repo). We will then review the repository.
 
-Sharing of your repo is due: Dec 12, 2025 at 17:00 EST, this exercise should take no more than about 4 hours to complete.
+**Sharing of your repo is due: Dec 12, 2025 at 17:00 EST, this exercise should take no more than about 4 hours to complete.**
